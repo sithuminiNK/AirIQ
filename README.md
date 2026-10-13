@@ -1,4 +1,4 @@
-# AirIQ — Next-Hour PM2.5 Air Quality Forecasting System
+🌍 AirIQ — Next-Hour PM2.5 Air Quality Forecasting System
 
 **IT3051 – Fundamentals of Data Mining | Mini Project 2026 | SLIIT**
 
